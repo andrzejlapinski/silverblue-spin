@@ -1,4 +1,4 @@
-# Starting point
+# silverblue-spin
 
 [![build-ublue](https://github.com/andrzejlapinski/silverblue-spin/actions/workflows/build.yml/badge.svg)](https://github.com/andrzejlapinski/silverblue-spin/actions/workflows/build.yml)
 
